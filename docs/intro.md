@@ -2,46 +2,39 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Markdown
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## ¿Que es Markdown?
 
-## Getting Started
+![Alt text](https://markdown.es/wp-content/uploads/2015/08/Guia-Markdown-en-espanol.jpg)
 
-Get started by **creating a new site**.
+Markdown nació como herramienta de conversión de texto plano a HTML.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6XdzBNC0_0?si=8nO8aBcH0UU-e-Et" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### What you'll need
+Esta herramienta fue creada en 2004 por John Gruber, y se distribuye de manera gratuita bajo una [licencia BDS](https://es.wikipedia.org/wiki/Licencia_BSD)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Aunque en realidad **Markdown** también se considera un **lenguaje** que tiene la finalidad de permitir crear contenido de una manera **sencilla de escribir, y que en todo momento mantenga un diseño legible**, así que para simplificar **puedes considerar Markdown como un método de escritura.**
 
-## Generate a new site
+De cara al usuario final no hay ninguna diferencia, por ejemplo este artículo acerca de [como funciona wise](https://enfoquenomada.com/transferwise/) está escrito en Markdown, y sin embargo ves que está perfectamente formateado
 
-Generate a new Docusaurus site using the **classic template**.
+Este método te permitirá añadir formatos tales como **negritas**, _cursivas_ o [enlaces](https://albiononline.com/home), utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
 
-The classic template will automatically be added to your project after you run the command:
+![Alt text](https://markdown.es/wp-content/uploads/2015/08/Diferencia-entre-Markdown-y-HTML.jpg)Observa la diferencia entre sintaxis Markdown (izquierda) y sintaxis HTML (derecha), ¿con cuál te quedas?
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Para conseguir esto, necesitarás conocer la [sintaxis de Markdown](https://markdown.es/sintaxis-markdown/)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+# ¿Para que sirve Markdown? 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Markdown será perfecto para ti sobre todo **si publicas de manera constante en Internet**, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
 
-## Start your site
+Pero no estoy hablando solo de [blogs](https://www.youtube.com/watch?v=36WZehAAuUI&ab_channel=LisaOno-Topic) o páginas web. **Servicios** como Trello o **foros** como Stackoverflow también soportan este lenguaje, y con el paso del tiempo encontrarás aún más lugares que lo utilicen.
 
-Run the development server:
+Además, Markdown está cada vez más extendido en el **mundo “offline”**. Nada te impedirá utilizar este lenguaje para **tomar notas y apuntes** de tus clases o reuniones en una determinada [aplicacion](https://www.youtube.com/watch?v=36WZehAAuUI&ab_channel=LisaOno-Topic)
 
-```bash
-cd my-website
-npm run start
-```
+Incluso podrías **escribir un libro con él**, ya que puedes exportar fácilmente el resultado final a un formato ePub.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Muchas de mis publicaciones en [Amazon](https://www.amazon.com/), [Google Play](https://play.google.com/store/games?hl=es_PE&gl=US&pli=1) o incluso [iBooks](https://www.apple.com/la/apple-books/), han visto la luz gracias a Markdown y a Ulysses ([Mac](https://www.apple.com/la/mac/), [iOS](https://www.apple.com/la/ios/ios-17/))
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Gracias a la simplicidad de su sintaxis podrás utilizarlo siempre que necesites escribir y dar formato rápidamente, sobre todo si quieres hacerlo desde dispositivos móviles.
+![Alt text](https://markdown.es/wp-content/uploads/2015/08/Escribir-libro-en-Markdown.jpg)

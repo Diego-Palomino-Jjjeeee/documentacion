@@ -71,18 +71,18 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Logo_buho_.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Introduccion a Markdown',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://gitlab.com/b.mendoza/facturadorpro3',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,7 +95,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introduccion a Markdown',
                 to: '/docs/intro',
               },
             ],
@@ -104,29 +104,22 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@carlomagno835/featured',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/facturaloperu',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Mas',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://gitlab.com/b.mendoza/facturadorpro3',
               },
             ],
           },
