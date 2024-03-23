@@ -116,7 +116,10 @@ const config = {
           {
             title: 'Mas',
             items: [
-
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
               {
                 label: 'GitHub',
                 href: 'https://gitlab.com/b.mendoza/facturadorpro3',
