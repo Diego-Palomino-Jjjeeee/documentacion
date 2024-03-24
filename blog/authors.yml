@@ -15,3 +15,15 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+palomino:
+  name: Diego Palomino 
+  title: Junior del Junior
+  url: https://github.com/Diego-Palomino-Jjjeeee
+  image_url: https://github.com/Diego-Palomino-Jjjeeee.png
+
+  luis:
+    name: Luis Lopez
+    title: Dev del Junior
+    url: https://github.com/LuisLopez-developer
+    image_url: https://github.com/LuisLopez-developer.png
