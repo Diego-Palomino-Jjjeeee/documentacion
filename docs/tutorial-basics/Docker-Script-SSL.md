@@ -62,7 +62,7 @@ Hemos elaborado un script para uso en instancias Linux, este es un archivo .sh q
 
     Observará a una página como la siguiente, donde debe copiar el contenido del script y pegarlo en su archivo install.sh, es importante que mantenga las estructura del mismo.
 
-    ![Alt text](img/Facturador-PRO2.jpg)
+    ![Alt text](img/Facturador-pro2.jpg)
 
 7.	Para salir de editor y guardar puede presionar “**ctrl + x**” seguidamente se le consultará si desea guardar los cambios, confirme con “**y**” y luego “**enter**”.
 
